@@ -46,4 +46,4 @@ first_name: Alice
 email: geekezhao@gmail.com
 ---
 Ziqi Zhao is a phd candidate in information systems at Zhejiang University. Her research interests include social commerce, communication-related theories (semiotics/sybolics/poetics), machine learning. Now she is pursuing on implementing machine learning and econometrics on social engagement.
-{style="text-align: justify;"}
+{style="text-align: left;"}
